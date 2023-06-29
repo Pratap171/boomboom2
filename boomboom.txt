@@ -4,3 +4,4 @@
 4 Adding whatsapp account
 5 adding status in whatsapp
 6 add ama pay
+7 add flip pay
