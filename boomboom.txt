@@ -3,3 +3,4 @@
 3 adding video and audio call feature
 4 Adding whatsapp account
 5 adding status in whatsapp
+6 add ama pay
